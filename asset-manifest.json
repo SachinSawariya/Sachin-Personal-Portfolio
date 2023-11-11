@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SachinSawariya/Sachin-Personal-Portfolio/static/css/main.9e54e88c.css",
+    "main.js": "/SachinSawariya/Sachin-Personal-Portfolio/static/js/main.c97b42c1.js",
+    "static/media/portfolio.png": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/portfolio.7b21466513badbc793f6.png",
+    "static/media/About_pic.jpeg": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/About_pic.757a53ed4fbe49ebbbea.jpeg",
+    "static/media/mypic.png": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/mypic.ba764e6c48b094899369.png",
+    "static/media/Sachin_resume.pdf": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/Sachin_resume.c80e137fac226056a1ed.pdf",
+    "static/media/bropic1.jpeg": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/bropic1.b29269d1c34a2bc50d6e.jpeg",
+    "static/media/textUtils.png": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/textUtils.0f4990e5da2b6348c3e6.png",
+    "static/media/glassesimoji.png": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/mypic2.jpg": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/mypic2.54317c2cc38689fcb58a.jpg",
+    "static/media/wave.png": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/SachinSawariya/Sachin-Personal-Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/SachinSawariya/Sachin-Personal-Portfolio/index.html",
+    "main.9e54e88c.css.map": "/SachinSawariya/Sachin-Personal-Portfolio/static/css/main.9e54e88c.css.map",
+    "main.c97b42c1.js.map": "/SachinSawariya/Sachin-Personal-Portfolio/static/js/main.c97b42c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e54e88c.css",
+    "static/js/main.c97b42c1.js"
+  ]
+}
